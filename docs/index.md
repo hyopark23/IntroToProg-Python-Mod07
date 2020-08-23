@@ -1,6 +1,6 @@
-Hyo Park
-August 22, 2020
-Foundations of Programmming: Python
+Hyo Park. 
+August 22, 2020. 
+Foundations of Programmming: Python. 
 Assignment 07
 
 # Exceptions Handling & Pickling in Python
