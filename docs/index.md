@@ -13,7 +13,7 @@ For this assignment, we were asked to research on our own the two main topics of
 
 Exceptions refers to unexpected error happening in Python that it cannot handle, and the program halting due to result. Suppose there is a simple program that asks the user to enter two numbers in which the first number is divided by the second number.
 
-![Simple program which divides first number by second number](docs%01.png "Figure 1: Simple program which divides first number by second number") Figure 1: Simple program which divides first number by second number
+![Simple program which divides first number by second number](https://hyopark23.github.io/IntroToProg-Python-Mod07/docs%01.png "Figure 1: Simple program which divides first number by second number") Figure 1: Simple program which divides first number by second number
 
 
 If the user enters 0 for the second number, an exception will occur as division by 0 is mathematically impossible. As seen on the second last line of Figure 2, the program raised a ZeroDivisonError exception.
