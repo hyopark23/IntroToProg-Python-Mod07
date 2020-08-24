@@ -2,7 +2,7 @@ Hyo Park
 August 22, 2020   
 Foundations of Programmming: Python     
 Assignment 07  
-https://github.com/hyopark23/IntroToProg-Python-Mod07/blob/master/docs/index.md
+https://github.com/hyopark23/IntroToProg-Python-Mod07
 
 # Exceptions Handling & Pickling in Python  
 
