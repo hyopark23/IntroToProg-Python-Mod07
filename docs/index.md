@@ -7,7 +7,7 @@ Assignment 07
 # Exceptions Handling & Pickling in Python  
 Exceptions refers to unexpected error happening in Python that it cannot handle, and the program halting due to result. Suppose there is a simple program that asks the user to enter two numbers in which the first number is divided by the second number.
 
-![Simple program which divides first number by second number](https://github.com/hyopark23/IntroToProg-Python-Mod07/blob/master/docs/Screen%20Shot%202020-08-23%20at%201.13.47%20AM.png)####Figure 1: Simple program which divides first number by second number
+![Simple program which divides first number by second number](https://github.com/hyopark23/IntroToProg-Python-Mod07/blob/master/docs/Screen%20Shot%202020-08-23%20at%201.13.47%20AM.png) ####Figure 1: Simple program which divides first number by second number
 ## Introduction
 
 For this assignment, we were asked to research on our own the two main topics of this module: exceptions handling and pickling. I will explain what the two Python features are, how they are used, and what makes them useful. 
